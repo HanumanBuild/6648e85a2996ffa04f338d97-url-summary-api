@@ -1,4 +1,5 @@
 require('dotenv').config();
+// Ensure dotenv is configured
 const express = require('express');
 const mongoose = require('mongoose');
 const axios = require('axios');
